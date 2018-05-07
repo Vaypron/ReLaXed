@@ -94,7 +94,7 @@ npm i -g relaxedjs
 
 This will provide your system with the ``relaxed`` command. If the installation fails, refer to the [troubleshooting page](https://github.com/RelaxedJS/ReLaXed/wiki/Troubleshooting).
 
-
+sfjhsjüogndgjüsmbdopghjnsdk gpihdnk
 ## Getting started
 
 To start a project, create a new, empty ``my_document.pug`` file, and start a ReLaXed process from a terminal:
